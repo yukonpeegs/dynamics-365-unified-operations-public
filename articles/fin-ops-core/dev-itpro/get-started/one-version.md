@@ -13,6 +13,9 @@ ms.search.validFrom: 2018-10-31
 ms.dyn365.ops.version: 8.1
 ---
 
+> [!NOTE]
+> For unified environments managed through the Power Platform Admin Center, see [Release schedule for service updates (unified environments)](/dynamics365/fin-ops-core/dev-itpro/get-started/service-update-unified-schedule.md) and [Manage service updates for unified environments](/power-platform/admin/unified-experience/manage-service-updates-unified-environments.md).
+
 # One Version service updates FAQ
 
 [!INCLUDE [banner](../includes/banner.md)]
