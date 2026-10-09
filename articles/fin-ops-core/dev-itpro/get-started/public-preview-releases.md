@@ -22,6 +22,9 @@ Microsoft is committed to delivering predictable service updates. These service 
 Customers can take up to four service updates per year and are required to take a minimum of two per year. Customers can choose to pause one update at a time. A pause of a service update can apply to the designated user acceptance testing (UAT) sandbox environment, the production environment, or both environments. After the pause window ends, if the customer hasn't self-updated to a supported service update, Microsoft automatically applies the latest update, based on the configuration in Microsoft Dynamics Lifecycle Services. To learn more about how to pause service updates, see [Pause service updates through Lifecycle Services](../../dev-itpro/lifecycle-services/pause-service-updates.md).
 
 > [!NOTE]
+> For unified environments managed through the Power Platform Admin Center, see [Release schedule for service updates (unified environments)](/dynamics365/fin-ops-core/dev-itpro/get-started/service-update-unified-schedule.md) and [Manage service updates for unified environments](/power-platform/admin/unified-experience/manage-service-updates-unified-environments.md).
+
+> [!NOTE]
 > Service updates are provided four times annually. Autoupdates occur in February, April, July, and October.
 
 ## Targeted release schedule (dates subject to change)
